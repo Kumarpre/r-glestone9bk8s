@@ -1,0 +1,39 @@
+name: Mutual Fund Data Ingestion Scheduler
+
+on:
+  schedule:
+    # 10:00 AM IST is 04:30 AM UTC
+    - cron: '30 4 * * *'
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  ingest_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Ingestion Pipeline
+        run: |
+          python scripts/ingest_all.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push updated index
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add data/
+          git commit -m "Auto-update mutual fund offline index" || echo "No changes to commit"
+          git push
