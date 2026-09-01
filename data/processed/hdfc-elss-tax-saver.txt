@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.04
++14.93
 %
 3Y annualised
-+0.11
+-0.06
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 28 Aug '26
-1,512.86
+NAV: 31 Aug '26
+1,512.01
 Min. for SIP
 500
 Fund size (AUM)
@@ -406,9 +406,9 @@ Name
 10Y
 All
 Fund returns
-+15.0%
-+15.9%
-+13.8%
++14.9%
++15.3%
++13.5%
 +14.2%
 Category average (
 Equity ELSS
@@ -451,24 +451,24 @@ Name
 3Y
 Fund Size(Cr)
 Motilal Oswal ELSS Tax Saver Fund Direct Growth
-+18.64%
-+23.70%
++19.16%
++23.58%
 4,783.81
 WhiteOak Capital ELSS Tax Saver Fund Direct Growth
-+9.17%
-+18.48%
++9.28%
++17.94%
 493.51
 SBI ELSS Tax Saver Fund Direct Growth
-+2.30%
-+15.96%
++2.19%
++15.64%
 32,300.09
 HDFC ELSS Tax Saver Fund Direct Plan Growth
-+0.09%
-+15.04%
++0.11%
++14.93%
 16,095.45
 Franklin India ELSS Tax Saver Fund Direct Growth
-+0.63%
-+12.88%
++0.66%
++12.62%
 6,239.46
 Compare
 Fund management
@@ -542,7 +542,7 @@ HDFC Innovation Fund Direct Growth
 HDFC Diversified Equity All Cap Active FoF Direct Growth
 About
 HDFC ELSS Tax Saver Fund Direct Plan Growth
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of 9,67,910 Cr and the Latest NAV as of 28 Aug 2026 is 1,512.86.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of 9,67,910 Cr and the Latest NAV as of 31 Aug 2026 is 1,512.01.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to 500. Minimum Lumpsum Investment is 500.
 ;
 Investment Objective
