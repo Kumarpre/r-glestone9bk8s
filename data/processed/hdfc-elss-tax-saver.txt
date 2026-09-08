@@ -63,10 +63,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+13.77
++13.31
 %
 3Y annualised
--0.07
+-0.42
 %
 1D
 1M
@@ -75,8 +75,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 04 Sep '26
-1,491.78
+NAV: 07 Sep '26
+1,485.59
 Min. for SIP
 500
 Fund size (AUM)
@@ -406,10 +406,10 @@ Name
 10Y
 All
 Fund returns
-+13.8%
-+14.7%
 +13.3%
-+14.1%
++14.5%
++13.0%
++14.0%
 Category average (
 Equity ELSS
 )
@@ -513,7 +513,7 @@ HDFC Innovation Fund Direct Growth
 HDFC Diversified Equity All Cap Active FoF Direct Growth
 About
 HDFC ELSS Tax Saver Fund Direct Plan Growth
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of 9,67,910 Cr and the Latest NAV as of 04 Sep 2026 is 1,491.78.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of 9,67,910 Cr and the Latest NAV as of 07 Sep 2026 is 1,485.59.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to 500. Minimum Lumpsum Investment is 500.
 ;
 Investment Objective
