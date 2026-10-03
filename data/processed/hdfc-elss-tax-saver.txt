@@ -412,16 +412,16 @@ Fund returns
 Category average (
 Equity ELSS
 )
-+11.4%
-+10.4%
-+13.2%
-+17.1%
++10.2%
++10.0%
++13.0%
++16.9%
 Rank (
 Equity ELSS
 )
 11
 5
-16
+17
 --
 Understand terms
 Expense ratio
