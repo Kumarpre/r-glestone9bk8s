@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+11.10
++11.81
 %
 3Y annualised
 +1.24
@@ -82,7 +82,7 @@ Min. for SIP
 Fund size (AUM)
 14,948.73 Cr
 Expense ratio
-1.21%
+1.20%
 Rating
 5
 Return calculator
@@ -95,25 +95,26 @@ Historic returns
 Returns
 1 year
 60,000
-56,048
--6.59
+56,736
+-5.44
 %
 3 years
 1,80,000
-1,79,266
--0.41
+1,81,474
++
+0.82
 %
 5 years
 3,00,000
-3,77,206
+3,81,698
 +
-25.74
+27.23
 %
 10 years
 6,00,000
-11,78,241
+11,91,984
 +
-96.37
+98.66
 %
 Holdings (
 64
@@ -400,17 +401,17 @@ Name
 10Y
 All
 Fund returns
-+11.1%
-+12.1%
++11.8%
 +12.4%
-+13.4%
++12.5%
++13.5%
 Category average (
 Equity ELSS
 )
-+9.8%
-+9.3%
-+12.7%
-+16.8%
++10.6%
++9.5%
++12.8%
++16.9%
 Rank (
 Equity ELSS
 )
