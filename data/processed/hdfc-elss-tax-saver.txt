@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+11.46
++11.71
 %
 3Y annualised
 -0.64
@@ -95,26 +95,26 @@ Historic returns
 Returns
 1 year
 60,000
-57,052
--4.91
+56,742
+-5.43
 %
 3 years
 1,80,000
-1,81,764
+1,80,631
 +
-0.98
+0.35
 %
 5 years
 3,00,000
-3,81,146
+3,78,667
 +
-27.05
+26.22
 %
 10 years
 6,00,000
-11,88,846
+11,81,350
 +
-98.14
+96.89
 %
 Holdings (
 64
@@ -401,23 +401,23 @@ Name
 10Y
 All
 Fund returns
-+11.5%
-+12.4%
-+12.4%
-+13.5%
++11.7%
++12.3%
++12.3%
++13.4%
 Category average (
 Equity ELSS
 )
-+9.9%
-+9.2%
-+12.6%
-+16.8%
++10.1%
++8.9%
++12.4%
++16.7%
 Rank (
 Equity ELSS
 )
 11
 4
-17
+16
 --
 Understand terms
 Expense ratio
