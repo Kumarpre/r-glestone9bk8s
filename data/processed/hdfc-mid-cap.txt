@@ -66,11 +66,11 @@ Loan against securities and Personal loan
 +15.51
 %
 3Y annualised
-+1.04
++0.85
 %
 1D
-NAV: 02 Nov '26
-218.23
+NAV: 03 Nov '26
+220.09
 Min. for SIP
 100
 Fund size (AUM)
@@ -467,10 +467,10 @@ Fund returns
 Category average (
 Equity Mid Cap
 )
-+14.5%
-+13.6%
-+15.3%
-+17.9%
++14.6%
++13.4%
++15.6%
++18.0%
 Rank (
 Equity Mid Cap
 )
@@ -585,7 +585,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Mid Cap Fund Direct Growth
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 02 Nov 2026 is 218.23.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 03 Nov 2026 is 220.09.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to 100. Minimum Lumpsum Investment is 100. Exit load of 1% if redeemed within 1 year.
 ;
 Investment Objective
@@ -665,7 +665,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.4
+8.1.7
 Share Market
 Indices
 F&O
