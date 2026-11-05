@@ -63,14 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.51
++16.14
 %
 3Y annualised
-+0.85
++1.38
 %
 1D
-NAV: 03 Nov '26
-220.09
+NAV: 04 Nov '26
+223.14
 Min. for SIP
 100
 Fund size (AUM)
@@ -89,26 +89,27 @@ Historic returns
 Returns
 1 year
 60,000
-58,990
--1.68
+60,307
++
+0.51
 %
 3 years
 1,80,000
-1,94,550
+1,98,839
 +
-8.08
+10.47
 %
 5 years
 3,00,000
-4,33,617
+4,43,026
 +
-44.54
+47.68
 %
 10 years
 6,00,000
-15,51,236
+15,84,628
 +
-158.54
+164.10
 %
 Holdings (
 81
@@ -460,10 +461,10 @@ Name
 10Y
 All
 Fund returns
-+15.5%
-+16.9%
-+16.5%
-+19.4%
++16.1%
++17.6%
++17.1%
++19.6%
 Category average (
 Equity Mid Cap
 )
@@ -504,24 +505,24 @@ Name
 3Y
 Fund Size(Cr)
 Invesco India Mid Cap Fund Direct Growth
-+1.56%
-+21.93%
++4.69%
++22.88%
 15,748.83
 HSBC Midcap Fund Direct Growth
-+11.34%
-+21.31%
++13.76%
++21.85%
 16,799.59
 WhiteOak Capital Mid Cap Fund Direct Growth
-+5.08%
-+20.20%
++6.44%
++20.79%
 8,399.71
 Edelweiss Mid Cap Direct Plan Growth
--0.51%
-+18.90%
++1.36%
++19.50%
 19,230.16
 Nippon India Growth Mid Cap Fund Direct Growth
-+0.02%
-+16.49%
++1.81%
++16.91%
 50,176.01
 Compare
 Fund management
@@ -585,7 +586,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Mid Cap Fund Direct Growth
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 03 Nov 2026 is 220.09.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 04 Nov 2026 is 223.14.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to 100. Minimum Lumpsum Investment is 100. Exit load of 1% if redeemed within 1 year.
 ;
 Investment Objective
