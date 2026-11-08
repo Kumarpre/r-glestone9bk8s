@@ -63,7 +63,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+16.64
++16.38
 %
 3Y annualised
 -0.04
@@ -89,27 +89,27 @@ Historic returns
 Returns
 1 year
 60,000
-61,098
+61,065
 +
-1.83
+1.77
 %
 3 years
 1,80,000
-2,01,459
+2,01,317
 +
-11.92
+11.84
 %
 5 years
 3,00,000
-4,48,760
+4,48,440
 +
-49.59
+49.48
 %
 10 years
 6,00,000
-16,05,015
+16,03,306
 +
-167.50
+167.22
 %
 Holdings (
 81
@@ -461,14 +461,14 @@ Name
 10Y
 All
 Fund returns
-+16.6%
-+17.9%
++16.4%
++17.8%
 +17.3%
 +19.7%
 Category average (
 Equity Mid Cap
 )
-+15.9%
++15.5%
 +14.4%
 +16.4%
 +18.3%
@@ -476,7 +476,7 @@ Rank (
 Equity Mid Cap
 )
 16
-4
+3
 7
 --
 Understand terms
@@ -505,24 +505,24 @@ Name
 3Y
 Fund Size(Cr)
 Invesco India Mid Cap Fund Direct Growth
-+6.93%
-+23.72%
++8.03%
++23.50%
 15,831.89
 HSBC Midcap Fund Direct Growth
-+15.34%
-+22.39%
++15.85%
++21.85%
 16,799.59
 WhiteOak Capital Mid Cap Fund Direct Growth
-+7.88%
-+21.31%
++8.62%
++20.89%
 8,399.71
 Edelweiss Mid Cap Direct Plan Growth
-+3.13%
-+20.17%
++4.10%
++19.73%
 19,230.16
 Nippon India Growth Mid Cap Fund Direct Growth
-+3.69%
-+17.60%
++4.57%
++17.26%
 50,176.01
 Compare
 Fund management
