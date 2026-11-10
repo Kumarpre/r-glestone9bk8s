@@ -63,20 +63,20 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+10.77
++10.75
 %
 3Y annualised
-+1.91
++0.28
 %
 1D
-NAV: 06 Nov '26
-1,257.17
+NAV: 09 Nov '26
+1,260.67
 Min. for SIP
 100
 Fund size (AUM)
 37,293.95 Cr
 Expense ratio
-1.01%
+1.00%
 Rating
 4
 Return calculator
@@ -89,27 +89,27 @@ Historic returns
 Returns
 1 year
 60,000
-62,177
+62,306
 +
-3.63
+3.84
 %
 3 years
 1,80,000
-1,91,334
+1,91,771
 +
-6.30
+6.54
 %
 5 years
 3,00,000
-3,82,529
+3,83,269
 +
-27.51
+27.76
 %
 10 years
 6,00,000
-11,60,991
+11,63,439
 +
-93.50
+93.91
 %
 Holdings (
 49
@@ -334,8 +334,8 @@ Name
 All
 Fund returns
 +10.8%
-+11.0%
-+13.1%
++10.7%
++13.0%
 +13.1%
 Category average (
 Equity Large Cap
@@ -347,8 +347,8 @@ Equity Large Cap
 Rank (
 Equity Large Cap
 )
-50
-18
+49
+19
 12
 --
 Understand terms
@@ -381,24 +381,24 @@ Name
 3Y
 Fund Size(Cr)
 Invesco India Large Cap Fund Direct Growth
-+6.81%
-+16.16%
++7.01%
++16.19%
 1,995.07
 Bandhan Large Cap Fund Direct Growth
-+3.82%
-+15.33%
++4.31%
++15.32%
 2,097.65
 DSP Large Cap Fund Direct Growth
-+0.62%
-+13.47%
++0.27%
++13.14%
 6,642.38
 Nippon India Large Cap Fund Direct Growth
--0.78%
-+12.79%
+-0.29%
++13.00%
 51,296.06
 HDFC Large Cap Fund Direct Growth
-+0.81%
-+10.77%
++1.19%
++10.75%
 37,293.95
 Compare
 Fund management
@@ -459,7 +459,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Large Cap Fund Direct Growth
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 06 Nov 2026 is 1,257.17.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 09 Nov 2026 is 1,260.67.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to 100. Minimum Lumpsum Investment is 100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
