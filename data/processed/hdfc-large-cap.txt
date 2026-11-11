@@ -341,13 +341,13 @@ Category average (
 Equity Large Cap
 )
 +12.5%
-+9.8%
-+13.0%
-+13.0%
++9.6%
++13.1%
++13.1%
 Rank (
 Equity Large Cap
 )
-49
+50
 19
 12
 --
@@ -395,7 +395,7 @@ DSP Large Cap Fund Direct Growth
 Nippon India Large Cap Fund Direct Growth
 -0.29%
 +13.00%
-51,296.06
+52,108.86
 HDFC Large Cap Fund Direct Growth
 +1.19%
 +10.75%

@@ -491,10 +491,10 @@ Fund returns
 Category average (
 Equity Small Cap
 )
-+14.2%
-+14.8%
-+17.4%
-+19.8%
++14.3%
++14.4%
++17.6%
++19.9%
 Rank (
 Equity Small Cap
 )
@@ -536,7 +536,7 @@ Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
 +7.19%
 +22.37%
-35,855.60
+35,203.84
 ITI Small Cap Fund Direct Growth
 +16.75%
 +21.65%
@@ -552,7 +552,7 @@ Sundaram Small Cap Fund Direct Growth
 Nippon India Small Cap Fund Direct Growth
 +6.05%
 +13.46%
-80,905.55
+76,902.83
 Compare
 Fund management
 Education
