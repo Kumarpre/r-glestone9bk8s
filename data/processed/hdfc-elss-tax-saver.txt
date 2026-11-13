@@ -63,20 +63,20 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+14.30
++14.61
 %
 3Y annualised
-+0.98
++0.20
 %
 1D
-NAV: 11 Nov '26
-1,552.43
+NAV: 12 Nov '26
+1,555.59
 Min. for SIP
 500
 Fund size (AUM)
-14,948.74 Cr
+15,108.43 Cr
 Expense ratio
-1.19%
+1.18%
 Rating
 5
 Return calculator
@@ -89,27 +89,27 @@ Historic returns
 Returns
 1 year
 60,000
-62,046
+62,700
 +
-3.41
+4.50
 %
 3 years
 1,80,000
-1,95,214
+1,97,384
 +
-8.45
+9.66
 %
 5 years
 3,00,000
-4,11,472
+4,15,837
 +
-37.16
+38.61
 %
 10 years
 6,00,000
-12,86,859
+13,00,551
 +
-114.48
+116.76
 %
 Holdings (
 64
@@ -393,10 +393,10 @@ Name
 10Y
 All
 Fund returns
-+14.3%
-+13.9%
-+13.7%
++14.6%
 +14.1%
++13.8%
++14.2%
 Category average (
 Equity ELSS
 )
@@ -407,9 +407,9 @@ Equity ELSS
 Rank (
 Equity ELSS
 )
-10
+11
 3
-17
+19
 --
 Understand terms
 Expense ratio
@@ -488,7 +488,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC ELSS Tax Saver Fund Direct Plan Growth
-HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of 9,34,076 Cr and the Latest NAV as of 11 Nov 2026 is 1,552.43.
+HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of 9,33,671 Cr and the Latest NAV as of 12 Nov 2026 is 1,555.59.
 The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to 500. Minimum Lumpsum Investment is 500.
 ;
 Investment Objective
@@ -501,7 +501,7 @@ HDFC Mutual Fund
 Rank (total assets)
 #2 in India
 Total AUM
-9,34,075.66 Cr
+9,33,671.14 Cr
 Date of Incorporation
 10 Dec 1999
 Phone
