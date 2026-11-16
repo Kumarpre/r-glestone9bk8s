@@ -89,15 +89,15 @@ Assets
 HDFC Gold ETF
 Unspecified
 Mutual Fund
-100.12%
+100.04%
 Repo
 Unspecified
 Repo
-0.13%
+0.03%
 Net Payables
 Unspecified
 Net Payables
--0.25%
+-0.07%
 Minimum investments
 Min. for 1st investment
 --
