@@ -63,14 +63,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.52
++15.50
 %
 3Y annualised
-+0.26
++0.11
 %
 1D
-NAV: 16 Nov '26
-230.30
+NAV: 17 Nov '26
+230.56
 Min. for SIP
 100
 Fund size (AUM)
@@ -89,27 +89,27 @@ Historic returns
 Returns
 1 year
 60,000
-62,062
+62,113
 +
-3.44
+3.52
 %
 3 years
 1,80,000
-2,04,616
+2,04,787
 +
-13.68
+13.77
 %
 5 years
 3,00,000
-4,54,885
+4,55,101
 +
-51.63
+51.70
 %
 10 years
 6,00,000
-16,25,671
+16,26,537
 +
-170.95
+171.09
 %
 Holdings (
 81
@@ -462,7 +462,7 @@ Name
 All
 Fund returns
 +15.5%
-+17.8%
++17.9%
 +17.9%
 +19.8%
 Category average (
@@ -505,24 +505,24 @@ Name
 3Y
 Fund Size(Cr)
 Invesco India Mid Cap Fund Direct Growth
-+10.57%
-+23.36%
++10.51%
++23.51%
 15,831.37
 HSBC Midcap Fund Direct Growth
-+15.79%
-+21.37%
++14.31%
++21.22%
 16,771.54
 WhiteOak Capital Mid Cap Fund Direct Growth
-+9.53%
-+20.22%
++8.92%
++20.16%
 7,785.51
 Edelweiss Mid Cap Direct Plan Growth
-+4.16%
-+18.51%
++3.85%
++18.53%
 18,724.52
 Nippon India Growth Mid Cap Fund Direct Growth
-+5.40%
-+16.55%
++4.72%
++16.44%
 48,905.07
 Compare
 Fund management
@@ -586,7 +586,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Mid Cap Fund Direct Growth
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,33,671 Cr and the Latest NAV as of 16 Nov 2026 is 230.30.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of 9,33,671 Cr and the Latest NAV as of 17 Nov 2026 is 230.56.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to 100. Minimum Lumpsum Investment is 100. Exit load of 1% if redeemed within 1 year.
 ;
 Investment Objective
